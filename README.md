@@ -1,7 +1,7 @@
 # Hi there, I'm **Robert** 👋 <br> 
 ___
 ## I am a **Database Engineer** looking for work. <br>
-___
+
 * 🔭 I'm working on self projects that can showcase the kind of databases I can build and maintain.
 * 🌱 I'm currently learning about data pipelines and client connections as well to better understand how the concepts work.
 * ❤️ Things I really love doing:
