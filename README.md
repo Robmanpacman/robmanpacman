@@ -1,8 +1,8 @@
 # Hi there, I'm **Robert** 👋 <br> 
-## I am a **Database Engineer** looking for work. <br>
+## I am a **Database Engineer** looking for work in either Database Engineering or Data Analyzing. <br>
 
-* 🔭 I'm working on self projects that can showcase the kind of databases I can build and maintain.
-* 🌱 I'm currently learning about data pipelines and client connections as well to better understand how the concepts work.
+* 🔭 I'm working on self projects that can showcase the kind of databases I can build and maintain. As well as analyzing data with various programs and created dashboards. 
+* 🌱 I'm currently learning about HTML!
 * ❤️ Things I really love doing:
     >> - Coding 💻
     >> - Gaming 🎮
