@@ -10,7 +10,7 @@
 
 ## Tech Stack 
 
-![picture]("C:\Users\rober\OneDrive\Documents\GitHub\robmanpacman\techstack.png")
+![picture](techstack.png)
 
 
 # Projects
