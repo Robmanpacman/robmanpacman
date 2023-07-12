@@ -1,5 +1,5 @@
 # Hi there, I'm **Robert** 👋 <br> 
-## I am a **Database Engineer** looking for work in either Database Engineering or Data Analyzing. <br>
+## I am a **Data Analyst** looking for work in Data Analysis. <br>
 
 * 🔭 I'm working on self projects that can showcase the kind of databases I can build and maintain. As well as analyzing data with various programs and created dashboards. 
 * 🌱 I'm currently learning about HTML!
